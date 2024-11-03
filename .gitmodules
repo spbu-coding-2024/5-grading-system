@@ -34,3 +34,6 @@
 [submodule "5-ivanovm-main"]
 	path = 5-ivanovm-main
 	url = git@github.com:spbu-coding-2024/5-ivanovm-main.git
+[submodule "5-ilq1"]
+	path = 5-ilq1
+	url = git@github.com:spbu-coding-2024/5-ilq1.git
