@@ -25,3 +25,6 @@
 [submodule "5-Nasty12121"]
 	path = 5-Nasty12121
 	url = git@github.com:spbu-coding-2024/5-Nasty12121.git
+[submodule "5-Ganesha1967"]
+	path = 5-Ganesha1967
+	url = git@github.com:spbu-coding-2024/5-Ganesha1967.git
