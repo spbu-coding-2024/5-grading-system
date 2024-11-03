@@ -49,3 +49,6 @@
 [submodule "5-VladislavLoikov"]
 	path = 5-VladislavLoikov
 	url = git@github.com:spbu-coding-2024/5-VladislavLoikov.git
+[submodule "5-ilyamaltsev05"]
+	path = 5-ilyamaltsev05
+	url = git@github.com:spbu-coding-2024/5-ilyamaltsev05.git
