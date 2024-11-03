@@ -13,3 +13,6 @@
 [submodule "5-Drenger"]
 	path = 5-Drenger
 	url = git@github.com:spbu-coding-2024/5-Drenger.git
+[submodule "5-MaksimGSI"]
+	path = 5-MaksimGSI
+	url = git@github.com:spbu-coding-2024/5-MaksimGSI.git
