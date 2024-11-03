@@ -91,3 +91,6 @@
 [submodule "5-VladimirKhmelev"]
 	path = 5-VladimirKhmelev
 	url = git@github.com:spbu-coding-2024/5-VladimirKhmelev.git
+[submodule "5-Daniil-Chepurnikh"]
+	path = 5-Daniil-Chepurnikh
+	url = git@github.com:spbu-coding-2024/5-Daniil-Chepurnikh.git
