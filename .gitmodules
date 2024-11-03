@@ -97,3 +97,6 @@
 [submodule "5-talubik"]
 	path = 5-talubik
 	url = git@github.com:spbu-coding-2024/5-talubik.git
+[submodule "5-Nickovlev"]
+	path = 5-Nickovlev
+	url = git@github.com:spbu-coding-2024/5-Nickovlev.git
