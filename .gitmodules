@@ -43,3 +43,6 @@
 [submodule "5-pechenb"]
 	path = 5-pechenb
 	url = git@github.com:spbu-coding-2024/5-pechenb.git
+[submodule "5-fUS1ONd"]
+	path = 5-fUS1ONd
+	url = git@github.com:spbu-coding-2024/5-fUS1ONd.git
