@@ -40,3 +40,6 @@
 [submodule "5-NIcolaiKl"]
 	path = 5-NIcolaiKl
 	url = git@github.com:spbu-coding-2024/5-NIcolaiKl.git
+[submodule "5-pechenb"]
+	path = 5-pechenb
+	url = git@github.com:spbu-coding-2024/5-pechenb.git
