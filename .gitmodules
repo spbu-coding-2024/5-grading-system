@@ -103,3 +103,6 @@
 [submodule "5-alken1t15"]
 	path = 5-alken1t15
 	url = git@github.com:spbu-coding-2024/5-alken1t15.git
+[submodule "5-g4rry1"]
+	path = 5-g4rry1
+	url = git@github.com:spbu-coding-2024/5-g4rry1.git
