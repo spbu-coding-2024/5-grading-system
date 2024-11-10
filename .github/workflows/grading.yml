@@ -15,7 +15,7 @@ jobs:
           token: ${{ secrets.GH_DB_TOKEN }}
       - name: Show submodule updated
         run: git diff --name-only HEAD^
-      - name: Show submodule updated
+      - name: Check clean
         run: ./5-grading-tests/scripts/check_clean.sh
       - name: Test
         run: ./5-grading-tests/scripts/test.sh
