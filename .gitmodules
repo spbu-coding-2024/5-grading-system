@@ -148,3 +148,6 @@
 [submodule "5-silvitreatment"]
 	path = 5-silvitreatment
 	url = git@github.com:spbu-coding-2024/5-silvitreatment.git
+[submodule "5-Zestria"]
+	path = 5-Zestria
+	url = git@github.com:spbu-coding-2024/5-Zestria.git
